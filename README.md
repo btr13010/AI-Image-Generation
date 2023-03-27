@@ -4,7 +4,7 @@
 
 - **Front-end**: React.js, Vite, Tailwind
 
-- **Back-end**: Express.js, Node.js
+- **Back-end**: Express.js
 
 - **Database**: MongoDB 
 
