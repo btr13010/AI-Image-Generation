@@ -16,6 +16,8 @@
 - [ ] Image edit: Upload image, send temporarily to cloud, send request to openai along with prompt, get response.
 - [ ] Prompt design: Design suitable prompts for image editing styles to remove the burden of designing prompts at the user side.
 - [ ] Image variation: Let the user to request for variations of a generated image
+- [ ] Delete images at the community showcase
 - [ ] Try Stable Diffusion API
 - [ ] Design customed diffusion model or GAN
+- [ ] User Authentication
 ---
