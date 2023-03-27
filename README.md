@@ -2,7 +2,7 @@
 
 ## Technologies
 
-- **Front-end**: React.js, vite, Tailwindcss 
+- **Front-end**: React.js, Vite, Tailwind
 
 - **Back-end**: Express.js 
 
